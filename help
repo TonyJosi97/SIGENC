@@ -1,0 +1,12 @@
+USAGE
+
+ * sigenc m
+  	m - Mode:
+	  	g - Generate key
+		  e - Encrypt Your password using the key public produced
+
+* sigenc m e k
+	  m - Mode:
+		  d - Decrypt encrpted password using private key
+	  	e - Encrypted file
+		  k - Private key file for the encrpted password
